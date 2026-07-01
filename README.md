@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
