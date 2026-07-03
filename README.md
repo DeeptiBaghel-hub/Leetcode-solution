@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
