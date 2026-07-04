@@ -1,0 +1,160 @@
+# Add One to a Number Represented as a Linked List
+
+## Problem Statement
+
+Given the head of a singly linked list where each node contains a single digit of a non-negative integer, add **1** to the number represented by the linked list and return the head of the updated list.
+
+The digits are stored such that the most significant digit appears first.
+
+### Example 1
+
+**Input**
+
+```
+1 -> 2 -> 3
+```
+
+**Output**
+
+```
+1 -> 2 -> 4
+```
+
+### Example 2
+
+**Input**
+
+```
+9 -> 9 -> 9
+```
+
+**Output**
+
+```
+1 -> 0 -> 0 -> 0
+```
+
+---
+
+## Approach
+
+The addition starts from the least significant digit (the last node), but since this is a singly linked list, traversing backwards is not possible.
+
+We use **recursion** to reach the last node first. While returning from the recursive calls:
+
+1. Add the carry to the current node.
+2. If the value becomes less than `10`, no carry is generated.
+3. Otherwise, set the current node's value to `0` and propagate a carry of `1`.
+4. After processing the head node, if a carry still remains, create a new node with value `1` and make it the new head.
+
+---
+
+## Algorithm
+
+1. Recursively traverse to the end of the linked list.
+2. Return an initial carry of `1`.
+3. Update each node while backtracking.
+4. Propagate the carry if the node value becomes `10`.
+5. If a carry remains after processing the head, create a new head node.
+
+---
+
+## Complexity Analysis
+
+* **Time Complexity:** `O(n)`
+* **Auxiliary Space:** `O(n)` (recursive call stack)
+
+---
+
+## Java Solution
+
+```java
+class Solution {
+    public Node addOne(Node head) {
+        int carry = helper(head);
+
+        if (carry == 1) {
+            Node newNode = new Node(1);
+            newNode.next = head;
+            return newNode;
+        }
+
+        return head;
+    }
+
+    private int helper(Node temp) {
+        if (temp == null) {
+            return 1;
+        }
+
+        int carry = helper(temp.next);
+
+        temp.data += carry;
+
+        if (temp.data < 10) {
+            return 0;
+        }
+
+        temp.data = 0;
+        return 1;
+    }
+}
+```
+
+---
+
+## Key Concepts
+
+* Recursion
+* Carry propagation
+* Linked List manipulation
+* Backtracking
+
+---
+
+**Platform:** GeeksforGeeks
+
+**Language:** Java
+
+/* Structure of linked list Node
+class Node{
+    int data;
+    Node next;
+
+    Node(int x){
+        data = x;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public Node addOne(Node head) {
+        int carry = helper(head);
+
+        if (carry == 1) {
+            Node newNode = new Node(1);
+            newNode.next = head;
+            return newNode;
+        }
+
+        return head;
+    }
+
+    private int helper(Node temp) {
+        if (temp == null) {
+            return 1;
+        }
+
+        int carry = helper(temp.next);
+
+        temp.data += carry;
+
+        if (temp.data < 10) {
+            return 0;
+        }
+
+        temp.data = 0;
+        return 1;
+    }
+}
