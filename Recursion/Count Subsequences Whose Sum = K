@@ -1,0 +1,25 @@
+public class Main {
+
+    static int countSubsequence(int index, int[] arr, int sum, int k) {
+
+        if (index == arr.length) {
+            return sum == k ? 1 : 0;
+        }
+
+        // Take
+        int left = countSubsequence(index + 1, arr, sum + arr[index], k);
+
+        // Not Take
+        int right = countSubsequence(index + 1, arr, sum, k);
+
+        return left + right;
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {1, 2, 1};
+        int k = 2;
+
+        System.out.println(countSubsequence(0, arr, 0, k));
+    }
+}
