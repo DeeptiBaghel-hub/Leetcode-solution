@@ -1,0 +1,29 @@
+import java.util.*;
+
+public class Main {
+
+    static void printSubsequence(int index, int[] arr, List<Integer> ds, int sum, int k) {
+
+        if (index == arr.length) {
+            if (sum == k)
+                System.out.println(ds);
+            return;
+        }
+
+        // Take
+        ds.add(arr[index]);
+        printSubsequence(index + 1, arr, ds, sum + arr[index], k);
+
+        // Not Take
+        ds.remove(ds.size() - 1);
+        printSubsequence(index + 1, arr, ds, sum, k);
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {1, 2, 1};
+        int k = 2;
+
+        printSubsequence(0, arr, new ArrayList<>(), 0, k);
+    }
+}
