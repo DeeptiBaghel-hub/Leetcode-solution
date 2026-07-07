@@ -1,0 +1,31 @@
+import java.util.*;
+
+public class Main {
+
+    static boolean printOne(int index, int[] arr, List<Integer> ds, int sum, int k) {
+
+        if (index == arr.length) {
+            if (sum == k) {
+                System.out.println(ds);
+                return true;
+            }
+            return false;
+        }
+
+        ds.add(arr[index]);
+        if (printOne(index + 1, arr, ds, sum + arr[index], k))
+            return true;
+
+        ds.remove(ds.size() - 1);
+
+        if (printOne(index + 1, arr, ds, sum, k))
+            return true;
+
+        return false;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 1};
+        printOne(0, arr, new ArrayList<>(), 0, 2);
+    }
+}
