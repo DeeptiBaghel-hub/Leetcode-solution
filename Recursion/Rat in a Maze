@@ -1,0 +1,132 @@
+# Rat in a Maze
+
+## Problem
+
+Given a binary matrix `maze[][]` of size `n × n` containing values `0` and `1`, find all possible paths for a rat to travel from the source cell `(0, 0)` to the destination cell `(n - 1, n - 1)`.
+
+* `1` represents an open cell through which the rat can move.
+* `0` represents a blocked cell.
+* The rat can move in four directions:
+
+  * Up (`U`)
+  * Down (`D`)
+  * Left (`L`)
+  * Right (`R`)
+* A cell cannot be visited more than once in the same path.
+
+Return all valid paths in **lexicographically increasing order**. If no path exists, return an empty list.
+
+### Example
+
+**Input**
+
+```text
+maze =
+[
+ [1,0,0,0],
+ [1,1,0,1],
+ [1,1,0,0],
+ [0,1,1,1]
+]
+```
+
+**Output**
+
+```text
+["DDRDRR", "DRDDRR"]
+```
+
+---
+
+## Approach
+
+This problem can be solved using **Backtracking (DFS)**.
+
+1. Start from cell `(0,0)`.
+2. Mark the current cell as visited.
+3. Try all four possible directions in the order **Down, Left, Right, Up (DLRU)**.
+4. Move only if:
+
+   * The next cell is inside the grid.
+   * The next cell is not blocked (`1`).
+   * The next cell has not been visited.
+5. If the destination is reached, store the current path.
+6. Backtrack by unmarking the current cell so it can be used in other paths.
+
+Since the directions are explored in the order **D → L → R → U**, the generated paths are already in lexicographical order.
+
+---
+
+## Java Solution
+
+```java
+class Solution {
+
+    public ArrayList<String> ratInMaze(int[][] maze) {
+
+        int n = maze.length;
+        ArrayList<String> ans = new ArrayList<>();
+
+        if (maze[0][0] == 0 || maze[n - 1][n - 1] == 0)
+            return ans;
+
+        boolean[][] vis = new boolean[n][n];
+
+        int[] di = {1, 0, 0, -1};
+        int[] dj = {0, -1, 1, 0};
+
+        solve(0, 0, n, maze, ans, "", vis, di, dj);
+
+        return ans;
+    }
+
+    private void solve(int i, int j, int n, int[][] maze,
+                       ArrayList<String> ans, String path,
+                       boolean[][] vis, int[] di, int[] dj) {
+
+        if (i == n - 1 && j == n - 1) {
+            ans.add(path);
+            return;
+        }
+
+        vis[i][j] = true;
+
+        String dir = "DLRU";
+
+        for (int k = 0; k < 4; k++) {
+
+            int ni = i + di[k];
+            int nj = j + dj[k];
+
+            if (ni >= 0 && nj >= 0 &&
+                ni < n && nj < n &&
+                !vis[ni][nj] &&
+                maze[ni][nj] == 1) {
+
+                solve(ni, nj, n, maze, ans,
+                      path + dir.charAt(k),
+                      vis, di, dj);
+            }
+        }
+
+        vis[i][j] = false;
+    }
+}
+```
+
+---
+
+## Complexity Analysis
+
+* **Time Complexity:** `O(4^(N²))` (worst case, exponential search)
+* **Space Complexity:** `O(N²)` for the visited array and recursion stack.
+
+---
+
+## Key Concepts
+
+* Backtracking
+* Depth-First Search (DFS)
+* Recursion
+* Matrix Traversal
+* Lexicographical Ordering
