@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
