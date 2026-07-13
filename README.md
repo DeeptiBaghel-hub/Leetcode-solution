@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1291-sequential-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
