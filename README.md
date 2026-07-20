@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
