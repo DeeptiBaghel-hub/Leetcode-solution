@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0065-valid-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0065-valid-number) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Enumeration
 |  |
