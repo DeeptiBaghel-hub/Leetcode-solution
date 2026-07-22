@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
