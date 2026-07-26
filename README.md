@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
