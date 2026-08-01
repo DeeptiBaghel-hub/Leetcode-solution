@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
