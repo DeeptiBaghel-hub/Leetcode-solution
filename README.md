@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
