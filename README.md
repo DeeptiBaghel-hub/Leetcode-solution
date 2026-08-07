@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
