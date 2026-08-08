@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
