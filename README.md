@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -250,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
