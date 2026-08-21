@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
