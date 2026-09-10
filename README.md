@@ -207,18 +207,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
