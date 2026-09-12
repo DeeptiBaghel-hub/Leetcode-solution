@@ -312,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
