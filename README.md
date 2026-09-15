@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0292-nim-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
 ## Bubble Sort
 |  |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0584-find-customer-referee) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
