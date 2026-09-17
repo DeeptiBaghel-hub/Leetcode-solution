@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0065-valid-number) |
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
