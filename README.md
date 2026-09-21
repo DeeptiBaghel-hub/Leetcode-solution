@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Bubble Sort
 |  |
 | ------- |
