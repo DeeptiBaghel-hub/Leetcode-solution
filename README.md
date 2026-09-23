@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0198-house-robber) |
 | [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Bubble Sort
 |  |
