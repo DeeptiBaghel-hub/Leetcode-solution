@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0198-house-robber) |
+| [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 | [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Bubble Sort
 |  |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
