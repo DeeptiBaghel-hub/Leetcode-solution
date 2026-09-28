@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0835-image-overlap) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
