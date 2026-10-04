@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0065-valid-number) |
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search Tree
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
+| [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Bubble Sort
 |  |
@@ -390,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
