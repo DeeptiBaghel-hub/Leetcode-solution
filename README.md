@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0065-valid-number) |
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -395,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
