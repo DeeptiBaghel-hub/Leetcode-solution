@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0065-valid-number) |
+| [0301-remove-invalid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0856-score-of-parentheses) |
