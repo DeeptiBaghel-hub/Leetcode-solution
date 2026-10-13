@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
