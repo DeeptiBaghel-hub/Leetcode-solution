@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
