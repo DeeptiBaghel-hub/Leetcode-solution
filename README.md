@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -442,8 +444,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
