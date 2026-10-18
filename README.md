@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -352,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Bubble Sort
 |  |
@@ -366,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -408,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -453,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
