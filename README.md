@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
