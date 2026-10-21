@@ -2,7 +2,7 @@ class Solution {
     public int minOperations(String s) {
         int n=s.length();
         boolean sorted=true;
-        for(int i=1;i<n;++i){
+        for(int i=1;i<n;i++){
             if(s.charAt(i)<s.charAt(i-1)){
                 sorted=false;
             }
@@ -11,7 +11,7 @@ class Solution {
         if(n==2) return -1;
         char min=s.charAt(0);
         char max=s.charAt(0);
-        for(int i=1;i<n;++i){
+        for(int i=1;i<n;i++){
             char c=s.charAt(i);
             if(c<min) min=c;
             if(c>max) max=c;
