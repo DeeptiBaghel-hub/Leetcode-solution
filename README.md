@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
