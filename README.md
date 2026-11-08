@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1254-number-of-closed-islands](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
