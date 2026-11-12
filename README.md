@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
