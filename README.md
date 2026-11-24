@@ -619,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
