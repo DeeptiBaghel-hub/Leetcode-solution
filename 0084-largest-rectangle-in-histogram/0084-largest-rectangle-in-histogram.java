@@ -1,23 +1,36 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        Stack<Integer> st = new Stack<>();
-        int length = heights.length;
-        int area = 0;
-        for (int i = 0; i < length; i++) {
-            while (!st.empty() && heights[i] < heights[st.peek()]) {
-                int bar = st.pop(); 
-                int pse = st.empty() ? -1 : st.peek(); 
-                int nse = i; 
-                area = Math.max(area, heights[bar] * (nse - pse - 1));
+        int nse[]=findNextSmaller(heights);
+        int pse[]=findPreviousSmaller(heights);
+        int max=0;
+        for(int i=0;i<heights.length;i++){
+            max=Math.max(max,(heights[i]*(nse[i]-pse[i]-1)));
+        }
+        return max;
+    }
+    public int[] findNextSmaller(int arr[]){
+        Stack<Integer> st=new Stack<>();
+        int nse[]=new int[arr.length];
+        for(int i=arr.length-1;i>=0;i--){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+                st.pop();
             }
+            nse[i]=st.isEmpty()?arr.length:st.peek();
             st.push(i);
         }
-        while (!st.empty()) {
-            int bar = st.pop();
-            int pse = st.empty() ? -1 : st.peek();
-            int nse = length;
-            area = Math.max(area, heights[bar] * (nse - pse - 1));
-        }
-        return area;
+        return nse;
     }
+    public int[] findPreviousSmaller(int arr[]){
+        Stack<Integer> st=new Stack<>();
+        int pse[]=new int[arr.length];
+        for(int i=0;i<arr.length;i++){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+                st.pop();
+            }
+            pse[i]=st.isEmpty()?-1:st.peek();
+            st.push(i);
+        }
+        return pse;
+    }
+    
 }
