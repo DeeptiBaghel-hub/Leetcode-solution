@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/DeeptiBaghel-hub/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Range Minimum/Maximum Query
 |  |
